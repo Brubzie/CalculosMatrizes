@@ -49,7 +49,7 @@ Execute o programa principal:
 
 ## Exemplo de Uso
 
-~~~python
+~~~bash
 ==================================================
                  Cálculo de Matrizes 2x2          
 --------------------------------------------------
@@ -69,7 +69,7 @@ Escolha uma das opções digitando o número correspondente e pressionando Enter
 
 Para alterar os valores das matrizes, selecione a opção [6] Alterar Matrizes e insira os novos valores conforme solicitado:
 
-~~~python
+~~~bash
 Digite os novos valores para a Matriz A (2x2):
 A[0][0]: 1
 A[0][1]: 2
